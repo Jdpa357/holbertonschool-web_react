@@ -6,10 +6,10 @@ interface Student {
 }
 
 const stud1: Student = {
-  firstName: "Carlos",
-  lastName: "Garcia",
+  firstName: "Juan",
+  lastName: "Portilla",
   age: 33,
-  location: "Cali",
+  location: "Palmira",
 };
 
 const stud2: Student = {
