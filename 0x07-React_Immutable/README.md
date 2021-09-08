@@ -1,7 +1,4 @@
-﻿![](Top.png)
-
-
-# Requirements
+﻿# Requirements
 
 ## General
 
